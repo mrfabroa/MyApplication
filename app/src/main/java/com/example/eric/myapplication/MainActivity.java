@@ -6,7 +6,7 @@ import android.view.View;
 import android.util.Log;
 import android.widget.Toast;
 
-// COMMIT THIS!!!!!  New Update
+// COMMIT THIS!!!!!  New Update 2
 
 public class MainActivity extends AppCompatActivity {
 
