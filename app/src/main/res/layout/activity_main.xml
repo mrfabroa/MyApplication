@@ -10,6 +10,12 @@
         android:layout_height="wrap_content"
         android:id="@+id/textView" />
 
+    <TextView android:text="@string/yeezus" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/textView"
+        android:layout_alignEnd="@+id/button" />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
